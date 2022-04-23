@@ -1,0 +1,16 @@
+payload:
+  - PROCESS-NAME,v2ray
+  - PROCESS-NAME,ss-local
+  - PROCESS-NAME,privoxy
+  - PROCESS-NAME,v2ray.exe
+  - PROCESS-NAME,ss-local.exe
+  - PROCESS-NAME,privoxy.exe
+  - PROCESS-NAME,Thunder
+  - PROCESS-NAME,DownloadService
+  - PROCESS-NAME,aria2c
+  - PROCESS-NAME,aria2c.exe
+  - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,ThunderVIP.exe
+  - PROCESS-NAME,ToDesk.exe
+  - PROCESS-NAME,ToDesk_Service.exe
+  - PROCESS-NAME,steam.exe
