@@ -14,3 +14,5 @@ payload:
   - PROCESS-NAME,ToDesk.exe
   - PROCESS-NAME,ToDesk_Service.exe
   - PROCESS-NAME,steam.exe
+  - PROCESS-NAME,RustDesk.exe
+  
